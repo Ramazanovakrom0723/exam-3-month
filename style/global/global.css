@@ -2,6 +2,9 @@
 @import url(../nav/nav.css);
 @import url(../main/main.css);
 @import url(../article/article.css);
+@import url(../aside/aside.css);
+@import url(../footer/footer.css);
+@import url(../section/section.css);
 * {
   margin: 0;
   padding: 0;
@@ -31,4 +34,8 @@ a {
     padding-left: 50px;
     padding-right: 50px;
   }
+}
+a:hover {
+  font-size: 24px;
+  color: aqua;
 }/*# sourceMappingURL=global.css.map */
